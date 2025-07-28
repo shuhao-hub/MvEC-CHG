@@ -1,5 +1,5 @@
 # MvEC-CHG
-Source code and datasets will be made publicly available on this repository upon acceptance of the paper.
+Source code and datasets will be made publicly available on this repository after acceptance of the paper.
 
 This repository is associated with our research paper entitled Multi-view Ensemble Clustering with Cross High-order Graph.
 
